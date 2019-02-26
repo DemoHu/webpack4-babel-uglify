@@ -1,5 +1,5 @@
 {
-  "name": "wp",
+  "name": "webpack4-babel-uglify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
